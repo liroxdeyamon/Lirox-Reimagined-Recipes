@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:water_bottle",
+    "#minecraft:small_flower",
+    [
+        "minecraft:sweet_berries",
+        "minecraft:glow_berries"
+    ]
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:regeneration_potion",
+    "components": {
+      "minecraft:duration": 10
+    }
+  }
+}

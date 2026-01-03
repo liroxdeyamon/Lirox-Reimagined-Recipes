@@ -1,0 +1,12 @@
+{
+  "pack": {
+    "description": "Simply my own take on some Minecraft recipes, Straight up rebalance, some logical and missing recipes.",
+    "pack_format": 45,
+    "supported_formats": [
+      45,
+      88
+    ],
+    "min_format": 45,
+    "max_format": 88
+  }
+}
