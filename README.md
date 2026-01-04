@@ -11,7 +11,7 @@ Simply my own take on some Minecraft recipes, Straight up rebalance, some logica
 - Cheaper rails
 - Black dye from coal
 - White dye from calcite
-- Green dye from red and yellow dye
+- Green dye from blue and yellow dye
 - Cheaper magma block
 - Book & Quill with black dye
 - More little additions
